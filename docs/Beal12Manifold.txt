@@ -1,0 +1,8 @@
+@inproceedings{beal2012manifold,
+  title={A manifold operator representation for adaptive design},
+  author={Beal, J. and Mostafa, H. and Mozeika, A. and Axelrod, B. and Adler, A. and Markiewicz, G. and Usbeck, K.},
+  booktitle={Proceedings of the fourteenth international conference on Genetic and evolutionary computation conference},
+  pages={529--536},
+  year={2012},
+  organization={ACM}
+}

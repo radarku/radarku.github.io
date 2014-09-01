@@ -1,0 +1,8 @@
+@inproceedings{Beal11Functions,
+   title={On the Evaluation of Space-Time Functions},
+   author={Jacob Beal and Kyle Usbeck},
+   booktitle={Spatial Computing Workshop at IEEE Self-Adaptive Self-Organizing Systems},
+   year={2011},
+   month={Oct},
+   address={Ann Arbor, Michigan, USA}
+}

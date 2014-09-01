@@ -1,0 +1,11 @@
+@article{usbeck2012network,
+  title={Network-centric IED detection planning},
+  author={Usbeck, Kyle and Cleveland, Jeffrey and Regli, William},
+  journal={International Journal of Intelligent Defence Support Systems},
+  volume={5},
+  number={1},
+  pages={44--74},
+  year={2012},
+  doi={10.1504/IJIDSS.2012.053665},
+  publisher={Inderscience Publishers}
+}

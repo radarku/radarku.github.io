@@ -1,0 +1,9 @@
+@inproceedings{anderson2004intelligent,
+   title={Intelligent systems demonstration: the secure wireless agent testbed (SWAT)},
+   author={Anderson, G. and Burnheimer, A. and Cicirello, V. and Dorsey, D. and Garcia, S. and Kam, M. and Kopena, J. and Malfettone, K. and Mroczkowski, A. and Naik, G. and others},
+   booktitle={Proceedings of the 19th national conference on Artifical intelligence},
+   pages={1004--1005},
+   year={2004},
+   organization={AAAI Press}
+}
+

@@ -1,0 +1,8 @@
+@MastersThesis{Usbeck:Thesis:2009,
+   author  = {Kyle Usbeck},
+   title   = {Network-Centric Automated Planning and Execution},
+   school  = {Drexel University},
+   address = {3141 Chestnut Street, Philadelphia, PA 19104},
+   year    = {2009},
+   month   = {July}
+}

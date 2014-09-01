@@ -1,0 +1,9 @@
+@inproceedings{anderson2005ai,
+   title={The AI technologies of the Philadelphia area urban wireless network testbed},
+   author={Anderson, G. and Burnheimer, A. and Cicirello, V. and Dorsey, D. and Dugan, C. and Howley, I. and Kam, M. and Kopena, J. and Lass, R. and Malfettone, K. and others},
+   booktitle={Proceedings of the 20th national conference on Artificial intelligence-Volume 4},
+   pages={1674--1675},
+   year={2005},
+   organization={AAAI Press}
+}
+

@@ -1,0 +1,9 @@
+@inproceedings{anderson2004demonstration,
+   title={Demonstration of the Secure Wireless Agent Testbed (SWAT)},
+   author={Anderson, G. and Burnheimer, A. and Cicirello, V. and Dorsey, D. and Garcia, S. and Kam, M. and Kopena, J. and Malfettone, K. and Mroczkowski, A. and Naik, G. and others},
+   booktitle={Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems-Volume 3},
+   pages={1214--1215},
+   year={2004},
+   organization={IEEE Computer Society}
+}
+

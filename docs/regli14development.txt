@@ -1,0 +1,13 @@
+@ARTICLE{regli14development,
+   author={Regli, W.C. and Mayk, I. and Cannon, C.T. and Kopena, J.B. and Lass, R.N. and Mongan, W.M. and Nguyen, D.N. and Salvage, J.K. and Sultanik, E.A. and Usbeck, K.},
+   journal={Systems, Man, and Cybernetics: Systems, IEEE Transactions on},
+   title={Development and Specification of a Reference Architecture for Agent-Based Systems},
+   year={2014},
+   month={Feb},
+   volume={44},
+   number={2},
+   pages={146-161},
+   keywords={Abstracts;Computer architecture;Concrete;Object oriented modeling;Software systems;Unified modeling language;Agents;distributed artificial intelligence (AI);multiagent;reference model;reverse engineering;software architecture;software engineering},
+   doi={10.1109/TSMCC.2013.2263132},
+   ISSN={2168-2216}
+}

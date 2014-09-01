@@ -1,0 +1,8 @@
+@inproceedings{Nguyen10Development,
+   title={Developing an Agent Systems Reference Architecture},
+   author={Duc N.~Nguyen and  Kyle Usbeck and William M.~Mongan and Christopher T.~Cannon and Robert N.~Lass and Jeff Salvage and William C.~Regli},
+   booktitle={Agent-oriented Software Engineering},
+   year={2010},
+   month={May},
+   address={Toronto, ON}
+}

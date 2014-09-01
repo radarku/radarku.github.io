@@ -1,0 +1,8 @@
+@inproceedings{Usbeck11Agent,
+   title={An Agent Framework for Agent Societies},
+   author={Kyle Usbeck and Jacob Beal},
+   booktitle={Proceedings of Systems, Programming, Languages and Applications: Software for Humanity},
+   year={2011},
+   month={Oct},
+   address={Portland, Oregon, USA}
+}

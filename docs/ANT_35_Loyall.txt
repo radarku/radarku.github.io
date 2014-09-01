@@ -1,0 +1,14 @@
+@article{Loyall2012170,
+title = "Information Ubiquity in Austere Locations",
+journal = "Procedia Computer Science",
+volume = "10",
+number = "0",
+pages = "170 - 178",
+year = "2012",
+note = "ANT 2012",
+issn = "1877-0509",
+doi = "10.1016/j.procs.2012.06.025",
+url = "http://www.sciencedirect.com/science/article/pii/S1877050912003821",
+author = "Joseph Loyall and Matthew Gillen and Jeffrey Cleveland and Kyle Usbeck and Joshua Sterling and Richard Newkirk and Ralph Kohler",
+}
+

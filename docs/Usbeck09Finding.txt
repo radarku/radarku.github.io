@@ -1,0 +1,9 @@
+@INPROCEEDINGS{Usbeck09Finding,
+   title = "Finding Dominant Plans Using Plan Evaluation Criteria",
+   author = "Kyle Usbeck and William C. Regli and Gerhard Wickler and Austin Tate",
+   booktitle = "In proceedings of Knowledge Systems for Coalition Operations",
+   year = {2009},
+   month = {MAR},
+   address = "Chilworth Manor, Southampton, UK"
+}
+

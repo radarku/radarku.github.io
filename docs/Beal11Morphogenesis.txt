@@ -1,0 +1,8 @@
+@inproceedings{Beal11Morphogenesis,
+   title={Morphogenesis as a Reference Architecture for Engineered Systems},
+   author={Jacob Beal and Annan Mozeika and Jessica Lowell and Kyle Usbeck},
+   booktitle={Morphogenetic Engineering Workshop at {ECAL}},
+   year={2011},
+   month={Aug},
+   address={Paris, France}
+}

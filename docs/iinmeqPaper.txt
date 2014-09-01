@@ -1,0 +1,6 @@
+@inproceedings{Carvalho11Integrated,
+   title={Integrated Information and Network Management for End-to-End Quality of Service.},
+   author={Marco Carvalho and Adrian Granados and Kyle Usbeck and Joseph Loyall and Matthew Gillen and Asher Sinclair and James Hanna},
+   booktitle={Proceedings of MILCOM},
+   year={2011}
+}

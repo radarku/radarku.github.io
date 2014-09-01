@@ -1,0 +1,8 @@
+@inproceedings{Beal12Lightweight,
+   title={Lightweight Simulation Scripting with Proto},
+   author={Jacob Beal and Kyle Usbeck and Brian Krisler},
+   booktitle={Spatial Computing Workshop at IEEE Self-Adaptive Self-Organizing Systems},
+   year={2012},
+   month={Jun},
+   address={Valencia, Spain}
+}
