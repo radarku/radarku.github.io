@@ -1,10 +1,10 @@
 @article{Beal29072012,
-author = {Beal, Jacob and Usbeck, Kyle and Benyo, Brett}, 
-title = {On the Evaluation of Space–Time Functions},
-year = {2012}, 
-doi = {10.1093/comjnl/bxs099}, 
-abstract ={In an environment increasingly saturated with computing devices, it is desirable for some services to be distributed, executing via local interactions between devices. Creating fast, flexible and dynamic distributed services requires a general model of function calls distributed over space–time. Prior models, however, have either depended strongly on large-scale Internet infrastructure or have restrictions in the scope or resolution of space–time for inputs, outputs or evaluation of the function. We address this by providing a formal general model of function calls over space–time. We then fully realize a practical model of space–time function calls, based in the Proto language and present both theoretical and empirical results. Finally, we show how our results for Proto generalize into implications for any model of distributed computing.}, 
-URL = {http://comjnl.oxfordjournals.org/content/early/2012/07/29/comjnl.bxs099.abstract}, 
-eprint = {http://comjnl.oxfordjournals.org/content/early/2012/07/29/comjnl.bxs099.full.pdf+html}, 
-journal = {The Computer Journal} 
+   author = {Beal, Jacob and Usbeck, Kyle and Benyo, Brett}, 
+   title = {On the Evaluation of Space–Time Functions},
+   year = {2012}, 
+   doi = {10.1093/comjnl/bxs099}, 
+   abstract ={In an environment increasingly saturated with computing devices, it is desirable for some services to be distributed, executing via local interactions between devices. Creating fast, flexible and dynamic distributed services requires a general model of function calls distributed over space–time. Prior models, however, have either depended strongly on large-scale Internet infrastructure or have restrictions in the scope or resolution of space–time for inputs, outputs or evaluation of the function. We address this by providing a formal general model of function calls over space–time. We then fully realize a practical model of space–time function calls, based in the Proto language and present both theoretical and empirical results. Finally, we show how our results for Proto generalize into implications for any model of distributed computing.}, 
+   URL = {http://comjnl.oxfordjournals.org/content/early/2012/07/29/comjnl.bxs099.abstract}, 
+   eprint = {http://comjnl.oxfordjournals.org/content/early/2012/07/29/comjnl.bxs099.full.pdf+html}, 
+   journal = {The Computer Journal} 
 }

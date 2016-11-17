@@ -1,0 +1,8 @@
+@inproceedings{beal2016opportunistic,
+   title={Opportunistic sharing of airborne sensors},
+   author={Beal, Jacob and Usbeck, Kyle and Loyall, Joseph and Metzler, James},
+   booktitle={Distributed Computing in Sensor Systems (DCOSS), 2016 International Conference on},
+   pages={25--32},
+   year={2016},
+   organization={IEEE}
+}

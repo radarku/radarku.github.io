@@ -1,0 +1,8 @@
+@inproceedings{usbeck2014data,
+   title={Data Ferrying to the Tactical Edge: A Field Experiment in Exchanging Mission Plans and Intelligence in Austere Environments},
+   author={Usbeck, Kyle and Gillen, Matthew and Loyall, Joseph and Gronosky, Andrew and Sterling, Joshua and Kohler, Ralph and Newkirk, Richard and Canestrare, David},
+   booktitle={2014 IEEE Military Communications Conference},
+   pages={1311--1317},
+   year={2014},
+   organization={IEEE}
+}

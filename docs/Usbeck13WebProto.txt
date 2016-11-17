@@ -1,0 +1,8 @@
+@inproceedings{usbeck2013web,
+   title={Web Proto: Aggregate Programming for Everyone},
+   author={Usbeck, Kyle and Beal, Jacob},
+   booktitle={Self-Adaptation and Self-Organizing Systems Workshops (SASOW), 2013 IEEE 7th International Conference on},
+   pages={17--18},
+   year={2013},
+   organization={IEEE}
+}

@@ -1,0 +1,11 @@
+@article{DBLP:journals/corr/abs-1202-5509,
+   author    = {Jacob Beal and Stefan Dulman and Kyle Usbeck and Mirko Viroli and Nikolaus Correll},
+   title     = {Organizing the Aggregate: Languages for Spatial Computing},
+   journal   = {CoRR},
+   volume    = {abs/1202.5509},
+   year      = {2012},
+   url       = {http://arxiv.org/abs/1202.5509},
+   timestamp = {Wed, 10 Oct 2012 21:28:48 +0200},
+   biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/abs-1202-5509},
+   bibsource = {dblp computer science bibliography, http://dblp.org}
+}

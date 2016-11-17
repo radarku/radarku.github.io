@@ -1,0 +1,11 @@
+@INPROCEEDINGS{6394136, 
+   author={J. Beal and J. Cleveland and K. Usbeck}, 
+   booktitle={Self-Adaptive and Self-Organizing Systems (SASO), 2012 IEEE Sixth International Conference on}, 
+   title={Self-Stabilizing Robot Team Formation with Proto: IEEE Self-Adaptive and Self-Organizing Systems 2012 Demo Entry}, 
+   year={2012}, 
+   pages={233-234}, 
+   keywords={adaptive systems;control engineering computing;mobile robots;multi-robot systems;self-adjusting systems;stability;Proto spatial computing language;arena size;random chain formation;self-adaptive systems;self-organizing systems;self-stabilizing robot team formation;teaming algorithms;Heuristic algorithms;Indexes;Resilience;Robot kinematics;Scalability;USA Councils}, 
+   doi={10.1109/SASO.2012.43}, 
+   ISSN={1949-3673}, 
+   month={Sept},
+}

@@ -1,0 +1,8 @@
+@inproceedings{usbeck2015improving,
+   title={Improving situation awareness with the Android Team Awareness Kit (ATAK)},
+   author={Usbeck, Kyle and Gillen, Matthew and Loyall, Joseph and Gronosky, Andrew and Sterling, Joshua and Kohler, Ralph and Hanlon, Kelly and Scally, Andrew and Newkirk, Richard and Canestrare, David},
+   booktitle={SPIE Defense+ Security},
+   pages={94560R--94560R},
+   year={2015},
+   organization={International Society for Optics and Photonics}
+}

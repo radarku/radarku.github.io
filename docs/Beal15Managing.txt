@@ -1,0 +1,8 @@
+@incollection{beal2015managing,
+   title={Managing Design Change with Functional Blueprints},
+   author={Beal, Jacob and Adler, Aaron and Yaman, Fusun and Cleveland, Jeffrey and Mostafa, Hala and Mozeika, Annan and Usbeck, Kyle and Markiewicz, Gretchen and Axelrod, Benjamin},
+   booktitle={Through-life Engineering Services},
+   pages={269--284},
+   year={2015},
+   publisher={Springer International Publishing}
+}
